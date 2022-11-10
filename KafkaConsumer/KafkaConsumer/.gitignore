@@ -1,0 +1,6 @@
+# Unneeded binary data
+**/out
+**/bin
+**/obj
+
+**/env

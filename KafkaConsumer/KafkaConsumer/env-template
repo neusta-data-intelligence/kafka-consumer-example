@@ -1,0 +1,5 @@
+KAFKA_GROUP_ID=<your-consumer-group>
+KAFKA_BOOTSTRAP_SERVERS=<your-bootstrap-servers>
+KAFKA_SASL_USERNAME=<your-sasl-username>
+KAFKA_SASL_PASSWORD=<your-sasl-password>
+KAFKA_TOPIC_NAME=<your-topic-name>
